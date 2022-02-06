@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ouzitech, a software engineer
-- 👀 I’m interested in Java ecosystem, Spring, Messaging, React...
+- 👀 I’m interested in Java ecosystem, Spring, Messaging, Docker...
 
 <!---
 ouzitech/ouzitech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
